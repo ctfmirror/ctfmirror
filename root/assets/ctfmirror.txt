@@ -1,4 +1,4 @@
-#21.10.2026#
+#02:40 25.10.2026#
 #####
 #armctf
 #####
@@ -13,6 +13,7 @@ https://ctfmirror.com/armctf/fristileaks.7z
 https://ctfmirror.com/armctf/goldeneye.7z
 https://ctfmirror.com/armctf/btrsys_v2.7z
 https://ctfmirror.com/armctf/aiweb2.7z
+https://ctfmirror.com/armctf/corrosion_2.7z
 https://ctfmirror.com/armctf/myexpense.7z
 https://ctfmirror.com/armctf/troll2.7z
 https://ctfmirror.com/armctf/arroutada.7z
@@ -21,12 +22,14 @@ https://ctfmirror.com/armctf/away.7z
 https://ctfmirror.com/armctf/catland.7z
 https://ctfmirror.com/armctf/chromatica.7z
 https://ctfmirror.com/armctf/chromee.7z
+https://ctfmirror.com/armctf/corrosion.7z
 https://ctfmirror.com/armctf/casino_royale.7z
 https://ctfmirror.com/armctf/bc_dexter.7z
 https://ctfmirror.com/armctf/clamp.7z
 https://ctfmirror.com/armctf/minu.7z
 https://ctfmirror.com/armctf/bottleneck.7z
 https://ctfmirror.com/armctf/cewlkid.7z
+https://ctfmirror.com/armctf/convert.7z
 https://ctfmirror.com/armctf/btrsys_v1.7z
 https://ctfmirror.com/armctf/ba_mrrebot.7z
 https://ctfmirror.com/armctf/cengbox.7z
@@ -41,6 +44,7 @@ https://ctfmirror.com/armctf/animetronic.7z
 https://ctfmirror.com/armctf/bob.7z
 https://ctfmirror.com/armctf/basilic.7z
 https://ctfmirror.com/armctf/bounty.7z
+https://ctfmirror.com/armctf/coolpg.7z
 https://ctfmirror.com/armctf/colddworld_immersion.7z
 https://ctfmirror.com/armctf/spalphonse.7z
 https://ctfmirror.com/armctf/comingsoon.7z
@@ -52,10 +56,12 @@ https://ctfmirror.com/armctf/troll3.7z
 https://ctfmirror.com/armctf/bsides_vancouver.7z
 https://ctfmirror.com/armctf/born2root2.7z
 https://ctfmirror.com/armctf/coffeeshop.7z
+https://ctfmirror.com/armctf/confusion.7z
 https://ctfmirror.com/armctf/chronos.7z
 https://ctfmirror.com/armctf/cengbox2.7z
 https://ctfmirror.com/armctf/broken_gallery.7z
 https://ctfmirror.com/armctf/bluesky.7z
+https://ctfmirror.com/armctf/connection.7z
 https://ctfmirror.com/armctf/1_checksums.txt
 https://ctfmirror.com/armctf/coffee_addicts.7z
 https://ctfmirror.com/armctf/alzheimer.7z
@@ -63,19 +69,23 @@ https://ctfmirror.com/armctf/azer.7z
 https://ctfmirror.com/armctf/clover.7z
 https://ctfmirror.com/armctf/creditcardscammers.7z
 https://ctfmirror.com/armctf/christmas.7z
+https://ctfmirror.com/armctf/controller.7z
 https://ctfmirror.com/armctf/cereal.7z
 https://ctfmirror.com/armctf/blackhat.7z
 https://ctfmirror.com/armctf/attack.7z
+https://ctfmirror.com/armctf/condor.7z
 https://ctfmirror.com/armctf/canto.7z
 https://ctfmirror.com/armctf/bluemoon.7z
 https://ctfmirror.com/armctf/boxing.7z
 https://ctfmirror.com/armctf/crossroads.7z
 https://ctfmirror.com/armctf/ba_stickyfingers.7z
+https://ctfmirror.com/armctf/console.7z
 https://ctfmirror.com/armctf/chill_hack.7z
 https://ctfmirror.com/armctf/minu2.7z
 https://ctfmirror.com/armctf/cherry.7z
 https://ctfmirror.com/armctf/aiweb.7z
 https://ctfmirror.com/armctf/bunny.7z
+https://ctfmirror.com/armctf/connect_the_dots.7z
 https://ctfmirror.com/armctf/again.7z
 https://ctfmirror.com/armctf/comet.7z
 https://ctfmirror.com/armctf/adroit.7z
