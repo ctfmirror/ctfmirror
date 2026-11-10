@@ -1,4 +1,4 @@
-#02:40 25.10.2026#
+#07:58 10.11.2026#
 #####
 #armctf
 #####
@@ -7,6 +7,7 @@ https://ctfmirror.com/armctf/born2root.7z
 https://ctfmirror.com/armctf/cheesey_cheeseyjack.7z
 https://ctfmirror.com/armctf/cheran.7z
 https://ctfmirror.com/armctf/bluesmoke_devrandom2.7z
+https://ctfmirror.com/armctf/zeug.7z
 https://ctfmirror.com/armctf/ck_00.7z
 https://ctfmirror.com/armctf/art.7z
 https://ctfmirror.com/armctf/fristileaks.7z
@@ -30,13 +31,16 @@ https://ctfmirror.com/armctf/minu.7z
 https://ctfmirror.com/armctf/bottleneck.7z
 https://ctfmirror.com/armctf/cewlkid.7z
 https://ctfmirror.com/armctf/convert.7z
+https://ctfmirror.com/armctf/zeus.7z
 https://ctfmirror.com/armctf/btrsys_v1.7z
 https://ctfmirror.com/armctf/ba_mrrebot.7z
 https://ctfmirror.com/armctf/cengbox.7z
 https://ctfmirror.com/armctf/blackwidow.7z
 https://ctfmirror.com/armctf/driftingblues.7z
 https://ctfmirror.com/armctf/bossplayersctf.7z
+https://ctfmirror.com/armctf/zurrak.7z
 https://ctfmirror.com/armctf/m87.7z
+https://ctfmirror.com/armctf/zen.7z
 https://ctfmirror.com/armctf/chainrulz.7z
 https://ctfmirror.com/armctf/driftingblues2.7z
 https://ctfmirror.com/armctf/baseme.7z
@@ -65,15 +69,19 @@ https://ctfmirror.com/armctf/connection.7z
 https://ctfmirror.com/armctf/1_checksums.txt
 https://ctfmirror.com/armctf/coffee_addicts.7z
 https://ctfmirror.com/armctf/alzheimer.7z
+https://ctfmirror.com/armctf/zday.7z
 https://ctfmirror.com/armctf/azer.7z
 https://ctfmirror.com/armctf/clover.7z
+https://ctfmirror.com/armctf/xmas.7z
 https://ctfmirror.com/armctf/creditcardscammers.7z
 https://ctfmirror.com/armctf/christmas.7z
 https://ctfmirror.com/armctf/controller.7z
 https://ctfmirror.com/armctf/cereal.7z
+https://ctfmirror.com/armctf/zon.7z
 https://ctfmirror.com/armctf/blackhat.7z
 https://ctfmirror.com/armctf/attack.7z
 https://ctfmirror.com/armctf/condor.7z
+https://ctfmirror.com/armctf/yone.7z
 https://ctfmirror.com/armctf/canto.7z
 https://ctfmirror.com/armctf/bluemoon.7z
 https://ctfmirror.com/armctf/boxing.7z
@@ -85,6 +93,7 @@ https://ctfmirror.com/armctf/minu2.7z
 https://ctfmirror.com/armctf/cherry.7z
 https://ctfmirror.com/armctf/aiweb.7z
 https://ctfmirror.com/armctf/bunny.7z
+https://ctfmirror.com/armctf/y0usef.7z
 https://ctfmirror.com/armctf/connect_the_dots.7z
 https://ctfmirror.com/armctf/again.7z
 https://ctfmirror.com/armctf/comet.7z
@@ -93,6 +102,7 @@ https://ctfmirror.com/armctf/beloved.7z
 https://ctfmirror.com/armctf/colddbox_easy.7z
 https://ctfmirror.com/armctf/broken.7z
 https://ctfmirror.com/armctf/ajin_bof.7z
+https://ctfmirror.com/armctf/za1.7z
 #####
 #vulnhub
 #####
